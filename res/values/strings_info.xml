@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="donate1">USD $1</string>
+    <string name="donate2">USD $3</string>
+    <string name="donate3">USD $5</string>
+        
+	<string name="info_1_title">Acerca de la Novena</string>
+	<string name="info_2_title">¿Cómo rezar la Novena?</string>
+	<string name="info_3_title">Donación</string>
+	<string name="info_4_title">Contacto</string>
+    	    
+	<string name="info_1_p">
+	  La Novena de Aguinaldos es una costumbre católica arraigada en Venezuela, Colombia y Ecuador que está relacionada con la festividad de Navidad.
+	  Hay diferentes versiones de la novena, aquí se presenta solamente una de ellas.  
+	  \nEsta novena está basada en la "Novena de Aguinaldos de Colombia" encontrada en Wikisource en español, para más información visita 
+	  http://es.wikisource.org/wiki/Novena_de_Aguinaldos_de_Colombia
+	</string>
+	<string name="info_2_p">
+	    Se reza diariamente entre el 16 y el 24 de diciembre, generalmente en compañia de familiares y amigos. 
+\n\nPara rezar la novena:
+
+\n1. Canta un villancico
+\n2. Reza la oración para todos los días
+\n3. Reza la oración de la Santísima Virgen
+\n4. Reza la oración a San José
+\n5. Reza la oración al Niño Jesús
+\n6. Lee el día correspondiente (Consideración) 
+\n7. Canta los gozos
+\n8. Canta los villancicos
+	    
+	</string> 
+	<string name="info_3_p">
+	    Esta aplicación es completamente gratuita, nuestro objetivo es difundir y afianzar las tradiciones colombianas y ponerlas al alcance de todos. Por
+	    lo tanto, si te gusta la aplicación y quieres incentivarnos para seguir con esta labor, tu donación, sugerencia y/ó comentario es bienvenido. 
+	    \n\n¡Feliz Navidad 2012 y un próspero 2013! 	     
+	</string>  
+	<string name="info_4_p">lepaca39@hotmail.com</string> 
+</resources>

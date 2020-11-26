@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="link_to_youtube">Ver el video en YouTube</string>
+
+<string-array name="villancicos_titles">
+    <item>Tutaína</item>
+    <item>A la Nanita Nana</item>
+    <item>Campana sobre campana</item>
+    <item>El Tamborilero</item>
+    <item>Noche de Paz</item>
+    <item>Burrito Sabanero</item>
+    <item>Antón tiruliru liru</item>
+    <item >Los peces en el rio</item>
+</string-array> 
+
+<string-array name="villancicos_links">
+    <item>vLPimo5YFn8</item>
+    <item>7Oxe5zJfG2w</item>    
+    <item>DyRFHeNMoXA</item>    
+    <item>mzcbVu9u1l4</item>    
+    <item>ZTELDtra5Ws</item>    
+    <item>OTcS-sjWTAc</item>
+    <item>Mg3D5TjRrqQ</item>
+    <item>L6_nZapQyps</item>
+</string-array> 
+
+<string-array name="villancicos_lyrics">
+    <item >
+        Tutaina tuturuma\n
+Tutaina tuturumaina\n
+Tutaina tuturuma, turuma\n
+Tutaina tuturumaina.\n
+Los pastores de Belén\n
+Vienen a adorar el niño;\n
+La virgen y san José\n
+Los reciben con cariño.\n
+Tutaina tuturuma\n
+Tutaina tuturumaina\n
+Tutaina tuturuma, turuma\n
+Tutaina tuturumaina.\n
+Tres reyes vienen también\n
+Con incienso, mirra y oro,\n
+A ofrecer a Dios su bien\n
+Como el más grande tesoro.\n
+Tutaina tuturuma\n
+Tutaina tuturumaina\n
+Tutaina tuturuma, turuma
+\nTutaina tuturumaina.
+
+
+    </item>
+    
+    <item >
+        A la nanita nana, nanita ea, nanita ea,\n
+mi Jesús tiene sueño, bendito sea,\n
+bendito sea.\n
+Fuentecilla que corres clara y sonora\n
+ruiseñor en la selva cantando lloras\n
+callad mientras la cuna se balancea\n
+a la nanita nana, nanita ea.\n
+A la nanita nana, nanita ea, nanita ea,\n
+mi Jesús tiene sueño, bendito sea,\n
+bendito sea.\n
+Manojito de rosas y de alelíes\n
+¿qué es lo que estás soñando que te\n
+sonríes?\n
+Cuáles son tus sueños, dilo alma mía,\n
+mas\n
+¿qué es lo que murmuras? Eucaristía.\n
+A la nanita nana, nanita ea, nanita ea,\n
+mi Jesús tiene sueño, bendito sea,\n
+bendito sea.\n
+Pajaritos y fuentes, auras y brisas\n
+respetad ese sueño y esas sonrisas\n
+callad mientras la cuna se balancea\n
+que el Niño está soñando, bendito\n
+sea.\n
+A la nanita nana, nanita ea, nanita ea,\n
+mi Jesús tiene sueño, bendito sea,\n
+bendito sea.
+    </item>
+    <item >
+       Campana sobre campana,\n
+y sobre campana una,\n
+asómate a la ventana,\n
+verás al Niño en la cuna.\n
+Belén, campanas de Belén,\n
+que los ángeles tocan\n
+¿qué nueva me traéis?\n
+Recogido tu rebaño\n
+¿a dónde vas pastorcillo?\n
+Voy a llevar al portal\n
+requesón, manteca y vino.\n
+Belén, campanas de Belén,\n
+que los ángeles tocan\n
+¿qué nueva me traéis?\n
+Campana sobre campana,\n
+y sobre campana dos,\n
+asómate a esa ventana,\n
+porque está naciendo Dios.\n
+Belén, campanas de Belén,\n
+que los ángeles tocan\n
+¿qué nueva me traéis?\n
+Campana sobre campana,\n
+y sobre campana tres,\n
+en una Cruz a esta hora,\n
+el Niño va a padecer.\n
+Belén, campanas de Belén,\n
+que los ángeles tocan\n
+¿qué nueva me traéis?
+    </item>
+    <item >
+
+El camino que lleva a Belén\n
+baja hasta el valle que la nieve\n
+cubrió.\n
+Los pastorcillos quieren ver a su Rey,\n
+le traen regalos en su humilde zurrón\n
+al Redentor, al Redentor.\n
+Yo quisiera poner a tu pies\n
+algún presente que te agrade Señor,\n
+mas Tú ya sabes que soy pobre\n
+también,\n
+y no poseo más que un viejo tambor.\n
+(rom pom pom pom, rom pom pom pom)\n
+¡En tu honor frente al portal tocaré\n
+con mi tambor !\n
+El camino que lleva a Belén\n
+voy marcando con mi viejo tambor,\n
+nada hay mejor que yo pueda ofrecer,\n
+su ronco acento es un canto de amor\n
+al Redentor, al Redentor.\n
+Cuando Dios me vio tocando ante El\n
+me sonrió.
+    </item>
+    <item >
+        Noche de paz, noche de amor\n
+Todo duerme en derredor\n
+sólo velan mirando la faz\n
+de su niño en angélica paz\n
+José y María en Belén\n
+José y María en Belén\n
+Noche de paz, noche de amor\n
+Llena el cielo un resplandor\n
+en la altura resuena un cantar:\n
+os anuncio una dicha sin par\n
+que en la tierra ha nacido Dios\n
+hoy en Belén de Judá\n
+Hoy en Belén de Judá\n
+Noche de paz, noche de amor\n
+Todo duerme en derredor\n
+sólo suenan en la oscuridad\n
+Armonías de felicidad\n
+Armonías de paz\n
+    </item>
+   <item >
+Con mi burrito sabanero\n
+voy camino de Belén\n
+Con mi burrito sabanero\n 
+voy camino de Belén\n
+\n\n
+Si me ven, si me ven \n
+voy camino de Belén \n
+Si me ven, si me ven \n
+voy camino de Belén\n
+\n\n
+Con mi cuatrico voy cantando\n
+y mi burrito va trotando\n
+Con mi cuatrico voy cantando \n
+y mi burrito va trotando\n
+\n\n
+Si me ven, si me ven \n
+voy camino de Belén \n
+Si me ven, si me ven \n
+voy camino de Belén\n
+\n\n
+El lucerito mañanero,\n
+ilumina mi sendero.\n
+El lucerito mañanero,\n
+ilumina mi sendero.\n
+\n\n
+Si me ven, si me ven \n
+voy camino de Belén \n
+Si me ven, si me ven \n
+voy camino de Belén\n
+\n\n
+Tuqui Tuqui Tuquituqui\n
+Tuquituqui Tu qui Ta \n
+Apúrate mi burrito \n
+que ya vamos a llegar\n
+\n\n
+Tuqui Tuqui Tuquituqui\n
+Tuquituqui Tu qui Ta\n
+apúrate mi burrito \n
+vamos a ver a Jesús
+   </item>
+   <item>
+       Anton tiruliru liru
+Antón tiruliru ra. (Bis)
+\n\n
+Jesús al pesebre vamos a adorar. (Bis)
+\n\n
+Duérmete niño chiquito,
+que la noche viene ya.
+\n\n
+Cierra pronto tus ojitos,
+que el viento te arrullara.
+\n\n
+Anton tiruliru liru
+Antón tiruliru ra. (Bis)
+\n\n
+Jesús al pesebre vamos a adorar. (Bis)
+\n\n
+Duérmete niño chiquito,
+que tu madre velará.
+Cierra pronto tus ojitos,
+por que la entristecerás.
+\n\n
+Anton tiruliru liru
+Antón tiruliru ra. (Bis)
+\n\n
+Jesús al pesebre vamos a adorar. (Bis)
+\n\n
+ya dormido en el regazo de María
+el salvador esta soñando dulcemente
+música y cantos de amor
+\n\n
+Anton tiruliru liru
+Antón tiruliru ra. (Bis)
+\n\n
+Jesús al pesebre vamos a adorar. (Bis)
+       
+   </item>
+   <item>
+       Pero mira como beben los peces en el río
+Pero mira como beben por ver al Dios Nacido
+Beben y Beben y vuelven a Beber
+Los peces en el río por ver a Dios Nacer.
+\n\n
+La Virgen está lavando
+y tendiendo en el romero
+los pajaritos cantando
+y el romero floreciendo
+\n\n
+Pero mira como beben los peces en el río
+Pero mira como beben por ver al Dios Nacido
+Beben y Beben y vuelven a Beber
+Los peces en el río por ver a Dios Nacer.
+\n\n
+La Virgen se está peinando
+entre cortina y cortina
+los cabellos son de oro
+y el peine de plata fina
+\n\n
+Pero mira como beben los peces en el río
+Pero mira como beben por ver al Dios Nacido
+Beben y Beben y vuelven a Beber
+Los peces en el río por ver a Dios Nacer.
+       
+   </item>
+</string-array>    
+
+    
+</resources>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_ingredientes">Ingredientes</string>
+    <string name="label_preparacion">Preparación</string>
+        
+	<string-array name="lista_recetas">
+	    <item>Ajiaco Santafereño</item>
+	    <item>Almojábanas</item>
+	    <item>Arroz con pollo</item>
+	    <item>Arroz con leche</item>
+	    <item>Postre borracho</item>
+	    <item>Buñuelos</item>
+	    <item>Crema de café</item>
+	    <item>Casquitos de guayaba</item>
+	    <item>Deditos de queso</item>
+	    <item>Empanadas</item>
+	    <item>Flan de mango</item>
+	    <item>Postre de fresas</item>
+	    <item>Mantecada</item>
+	    <item>Masato</item>
+	    <item>Postre de natas</item>
+	    <item>Natilla</item>
+	    <item>Sabajón</item>
+	    <item>Tamal</item>
+	    <item>Torta de pastores</item>
+	</string-array>
+	
+	<string-array name="recetas_ingredientes">
+	    <item>
+16 Tazas de agua (pueden sustituirse 4 tazas de agua por 4 de leche).\n
+1 Libra (500 gr.) de papas criollas, peladas y cortadas en rodajas.\n
+2 Libras (1 Kg.) de papa sabanera pelada y cortada en rodajas.\n
+1 1/2 Libras (750 gr.) de papas sabaneras, peladas y cortadas en rodajas.\n
+3 Libras (1 1/2 Kg.) de pechugas de pollo (o dos pollos despresados).\n
+4 Mazorcas tiernas, partidas en trozos.\n
+3 Tallos de cebolla larga.\n
+4 Dientes de ajo triturados.\n
+1 Ramo de Guascas.\n
+1 Rama de cilantro.\n
+1 1/2 Tazas de crema de leche.\n
+1 Taza de alcaparras.\n
+4 Aguacates medianos, partidos.\n
+Sal y pimienta al gusto. 
+	    </item>
+	    <item>
+500 gramos de masa de maíz\n
+2 libras de cuajada molida\n
+1 cucharadita de sal\n
+1 cucharadita de polvo de hornear\n
+2 huevos batidos \n
+	    </item>
+	    <item>
+1 taza de arroz precocido\n
+1 taza de pollo precocido\n
+1 cucharada de pimentón en juliana o cuadritos\n
+1/4 de taza de cebolla cabezona, finamente picada\n
+2 cucharadas de aceite de oliva\n
+1 diente de ajo triturado\n
+1/4 de taza de arveja precocida\n
+1 cucharada de cilantro\n
+1 cucharada de color\n
+1 cucharada de caldo de gallina\n
+1 hoja de laurel\n
+y Tomillo, sal y pimienta al gusto.\n
+	    </item>
+	    <item>
+½ taza de arroz lavado y remojado\n
+2 ½ botellas de leche\n
+1 botella de agua\n
+2 astillas de canela\n
+½ libra de azúcar o más al gusto\n
+½ taza de uvas pasas\n
+1 pizca de sal
+	    </item>
+	    <item>
+1 ponqué (torta) de vainilla pequeño\n
+1 pudín (flan) de chocolate\n
+2 tazas de leche\n
+1 pocillo de aguardiente o brandy 
+	    </item>
+	    <item>
+3 tazas de queso molido\n
+1 ½ taza de harina de maíz\n
+2 huevos batidos\n
+¼ taza de leche\n
+1 cucharadita de azúcar\n
+Aceite
+	    </item>
+	    <item>
+2 ½ tazas de crema de leche\n
+2 cucharadas de café instantáneo disueltas en una taza de agua caliente\n
+1 sobre de gelatina sin sabor ¾ taza de azúcar \n
+	    </item>
+	    <item>
+1 libra de casquitos\n
+1 libra de azúcar\n
+3 tazas de agua limón \n
+	    </item>
+	    <item>
+14 cucharadas de queso.\n
+5 huevos.\n
+½ taza de leche.\n
+4 cucharadas de harina.\n
+1 cucharada de matequilla.\n
+Aceite para freir\n
+Un poquito de sal.
+	    </item>
+	    <item>
+1 libras de maíz trillado\n
+1 libra de piernas de cerdo\n
+1 libra de papas cocidas y peladas\n
+1 taza de hogao\n
+2 taza de agua para el relleno\n
+1 litro de agua Guiso\n
+2 cucharadas de panela raspada\n
+2 cucharadas de almidón de yuca\n
+1 cucharadita de sal\n
+4 cucharadas de aceite\n
+Comino y sal al gusto
+	    </item>
+	    <item>
+3 tazas de pulpa de mango maduro, licuado y colado\n
+1 taza de crema de leche\n
+4 huevos batidos\n
+3 cucharadas de gelatina sin sabor disuelta en
+¼ de taza de agua tibia
+1 taza de azúcar \n
+		</item>
+	    <item>
+1 taza de crema de leche batida\n
+1 taza de pure de fresas\n
+2 ½ cucharadas de gelatina sin sabor\n
+2 tazas de azúcar\n
+4 cucharadas de jugo de limón\n
+6 claras de huevo \n
+	    </item>
+	    <item>
+2 1/2 libra de harina de maíz\n
+2 libras de azúcar\n
+2 libras de mantequilla\n
+1 litro de leche\n
+2 cucharaditas colmadas de polvo de hornear\n
+24 huevos\n
+1/2 libra de harina de trigo\n
+esencia de hinojo o aguardiente o anís\n
+1/2 frasco o al gusto \n
+	    </item>
+	    <item>
+8 litros de agua\n
+2 libras de arroz, lavado\n
+4 libras de azúcar\n
+¼ libra de trigo\n
+4 astillas de canela\n
+6 clavos de olor(en una taleguita)
+	    </item>
+	    <item>
+3 litros de leche sin pasteurizar\n
+1 libra de azúcar\n
+2 yemas de huevo\n
+	    </item>
+	    <item>
+2 litros de leche\n
+2 tazas de fécula de maíz\n
+1 libra de panela raspada\n
+4 astillas de canela\n
+2 cucharadas de mantequilla\n
+1 coco fresco rallado\n
+1 cucharada de canela en polvo
+	    </item>
+	    <item>
+1 lata de leche condensada\n
+1 taza de brandy o ron\n
+2 copas de ginebra\n
+1 botella de soda\n
+1 botella de Colombiana o cualquier gaseosa parecida.
+	    </item>
+	    <item>
+500 gr de maíz blanco trillado\n
+			1 pollo partido en trozos medianos\n
+			sal, comino y pimienta al gusto\n
+			500 gr de tocino con cuero\n
+			500 gr de costilla de cerdo\n
+			1 atado de cebolla larga picada\n
+			3 dientes de ajo machacados\n
+			Achiote al gusto\n
+			250 gr de arroz cocido\n
+			250 gr de arveja seca y cocida\n
+			Hojas de plátano soasadas\n
+			500 gr de papa pelada y picada\n
+			250 gr de zanahorias cortadas en rodajas\n
+			3 huevos cocidos cortados en cascos\n
+			Cabuya
+	    </item>
+	    <item>
+3 tazas de bizcochuelo remojado en 2 tazas de vino\n
+1/2 libra de pasas\n
+1/2 taza de licor anisado\n
+1 Cucharada de Canela Molida\n
+1/2 Cucharadita de clavos de olor molidos\n
+1 libra de azúcar morena\n
+8 huevos sin batir\n
+3 tazas de desamargado escurrido picado bien fino\n
+1 botella de leche\n
+3/4 de taza de arroz remojado de la víspera\n
+1 Taza de agua\n
+2 Tazas de leche
+	    </item>
+	</string-array>
+	
+	<string-array name="recetas_preparacion">
+	    <item>
+		El ajiaco bogotano se prepara de diferentes maneras, generalmente con los mismos ingredientes en distintas proporciones, aunque se puede cambiar el pollo por carne de res.
+Se ponen las pechugas (o las presas de pollo), las papas, la cebolla larga, sal y pimienta a cocinar en el agua y la leche mezclados, durante unos 45 minutos o 1 hora (hasta que las carnes estén blandas y las papas criollas y sabaneras disueltas). Se sacan las pechugas (o las presas) y la cebolla. Al caldo se le agregan las mazorcas, que se han cocinado aparte, y se deja conservar a fuego lento hasta lograr la densidad deseada. Se le añaden las guascas 5 minutos antes de servirlo.
+Si el pollo se va a servir deshuesado y deshilachado, se agrega al ajiaco en el momento de servirlo o también hay quien lo prefiere aparte. Si las presas van enteras, se sirve una porción en cada plato. También se pueden servir las carnes deshilachadas mezcladas con la crema, pues quedan con mejor apariencia.
+Este apetitoso plato se acompaña con ají de aguacate, ají de hierbas o simplemente con tajadas de aguacate. Las alcaparras y la crema de leche se sirven aparte y cada comensal se sirve a su gusto.
+Las mazorcas se sirven enteras o desgranadas con el ajiaco o si se prefiere, aparte. 	
+		</item>
+	    <item>
+Se mezclan todos los ingredientes y se amasan bastante hasta obtener una pasta suave. Se dividen el 25 porciones con las que se forman las almojábanas, se ponen sobre una lata engrasada y se llevan al horno a 300° hasta que crezcan y se doren.
+Se les puede esparcir miel natural a la hora de servirlas. 
+	    </item>
+	    <item>Se sofríe el ajo y la cebolla en aceite durante 6 minutos. Posteriormente se agrega el pollo que puede ser crudo o precocido, por un espacio de 6 minutos. Luego se agrega el pimentón y las arvejas por 3 minutos. Se adiciona la hoja de laurel, el tomillo, la sal y la pimienta y finalmente se incorpora el arroz.
+Se sirve y se decora con huevo duro, tomate, perejil y cebollita. </item>
+	    <item>
+Se mezclan una botella de leche y una de agua y se llevan al fuego, se les agrega el arroz y se deja cocinar a fuego medio hasta que reviente. Se le añade la otra botella y media de leche, el azúcar, la canela y las pasas, se baja a fuego lento, se revuelve constantemente hasta lograr el espeso deseado. Se agrega la pizca de sal y se revuelve. Se sirve caliente o frío.
+	    </item>
+	    <item>
+Preparare el pudín o flan de chocolate en las dos tazas de leche, esperar a que espese. Luego en una refractaria coloque una capa de pedazos pequeños de ponqué (torta) y rocíelos con el brandy o aguardiente. Agregue suavemente, encima del ponqué una capa de pudin (flan) de chocolate.
+Continúe colocando trozos de ponqué y tapar con lo que resta del pudín o flan de chocolate. Meta a la nevera hasta que cuaje.
+Tiempo de preparación: 1:30 minutos
+	    </item>
+	    <item>
+Se mezclan todos los ingredientes juntos, se amasan hasta lograr una masa suave. Se forman bolitas con las manos húmedas. Se ponen a freír en aceite caliente. Se tapa, cuando se esponjen y suban se le sube el fuego y se dejan dorar, se sacan y se ponen a escurrir sobre papel absorbente.
+	    </item>
+	    <item>
+Se bate la crema de leche y se le incorporan el café instantáneo y la gelatina disueltos con el azúcar; se bate todo bien, se pone en un molde y se lleva a la nevera durante un par de horas. Antes de servir, se bate un poco para que recupere su plasticidad. 
+	    </item>
+	    <item>
+Se parten las guayabas, se les saca la pulpa con una cucharita, se ponen en agua con jugo de limón por una hora. Se sacan y se ponen a calar en un almíbar muy liviano, se deja cocinar hasta que esté en su punto. Se puede agregar más agua caliente, si el dulce se secara demasiado durante la cocción. 
+	    </item>
+	    <item>
+Se mezclan todos los ingredientes, después la masa se enrolla y se fríe en aceite caliente.
+
+	    </item>
+	    <item>
+Se calienta el aceite y se sofríe la carne, cuando se dore se le agrega el hogao, el comino y la sal. Se deja freír por diez minutos. Se le añaden las papas, el agua, se tapa y se deja cocinar por 25 minutos más. Se cocina el maíz en suficiente agua, si dejar que quede muy blando, se saca y se muele. Posteriormente se mezcla el maíz con el almidón, la panela y la sal y se amasa muy bien. Se van tomando porciones pequeñas de la masa y se aplanan con los dedos formando arepitas delgadas que se rellenan cada una con una cucharada de guiso, se doblan y se presionan los bordes para cerrarlas bien. Finalmente se fríen en aceite muy caliente hasta que se doren, se sacan y se ponen sobre papel absorbente. Sírvalas calientes, acompañadas de ají.
+	    </item>
+	    <item>
+Se baten las claras a punto de nieve y se le van añadiendo las yemas y el azúcar poco a poco, mientras se sigue batiendo. Se mezclan el jugo de mango, la crema de leche y la gelatina (deben quedar bien incorporados). Luego se le va mezclando el batido lentamente con movimientos envolventes y se vierte todo en un molde, se deja en la nevera por varias horas. Se saca y se desmolda. Se puede bañar con salsa inglesa para servir.
+	    </item>
+	    <item>
+Añada la gelatina sin sabor en el jugo de limón durante 5 minutos y luego caliente la mezcla a baño de María, hasta que se derrita completamente. Aparte, caliente el puré de fresas ligeramente y poco a poco adiciónele la mezcla anterior, de gelatina y limón revolviendo muy bien. Bata las claras de huevo hasta que estén espumosas y adiciónele el azúcar, batiendo todo el tiempo hasta que esté a punto de nieve e incorpórelas al puré de fresas. Aparte bata la crema de leche batida hasta que forme picos firmes e incorpórela a la preparación anterior. Finalmente, vierta porciones individuales en copas, y refrigérelo hasta que esté frío. Al momento de servir, decore con fresas.
+
+	    </item>
+	    <item>
+Se bate la mantequilla con el azúcar hasta que quede como una crema y se le van añadiendo los huevos uno a uno lo mismo la harina y el resto de los ingredientes, no añadir otro huevo hasta no batir bien el anterior, la leche se le añade a lo último.
+
+Cuando todos los ingredientes estén bien mezclados se pone en un molde engrasado y se lleva al horno precalentado a 350° grados por una hora mas o menos. Si se quiere se hace la prueba del cuchillo.
+	    </item>
+	    <item>
+Se prepara un almíbar con un litro de agua y el azúcar. El arroz se pone a cocinar en los 7 litros de agua restante 30 minutos. Se cuela, conservando el agua, y se pasa por un cernidor. Se incorpora al agua de arroz los clavos, la canela, el almíbar y la harina de trigo. Se deja cocinar a fuego lento por 30 minutos, revolviendo con cuchara de palo. Se deja enfriar y se sirve a temperatura ambiente o si desea con hielo picado. 
+	    </item>
+	    <item>
+Se pone a cocinar la leche, dejándola reposar tras cada hervida; se retiran las natas y se guardan. Se repite la operación hasta que no salgan más natas. Se prepara un almíbar con el azúcar y una taza del suero que queda de la leche. Se añaden las 3 yemas, se revuelven hasta que queden bien incorporadas; se le ponen las natas encima y se deja cocinar a fuego lento por unos minutos (sin revolver). No se debe tocar hasta que se enfríe. Se sirve en dulcera. Si resulta muy espeso puede agregarse más leche. Se pueden agregar unas uvas pasas en el momento de mezclar el almíbar y las natas.
+	    </item>
+	    <item>
+Se pone a hervir un litro y medio de leche con la canela en astillas y la panela, sacándole la espuma que valla formando. Se añade la fécula de maíz (que se ha disuelto previamente en medio litro de leche) y la mantequilla. Se va revolviendo lentamente y se cocina a fuego lento por diez minutos o hasta que de su punto (que se reconoce poniendo una cucharada de la mezcla en un plato, se deja enfriar, pudiendo despegarlo fácilmente). Justo antes de bajarla del fuego se le añade el coco, se revuelve y se vierte en los moldes.
+
+En el momento de servir la porción individual, se espolvorea un poco de canela en polvo.
+
+Como opcional se puede agregar a cada porción una cucharada de dulce de mora.
+	    </item>
+	    <item>
+Se bate todo muy bien en la licuadora y se mantiene refrigerado para servirlo muy frío. Si se quiere se le da color con un poco de azafrán.
+	    </item>
+	    <item>
+Remojar el maíz durante 3 días cambiándole el agua diariamente. Molerlo y adobar el pollo con sal, comino y pimienta. Sancochar el cuero del tocino y la costilla de cerdo en 6 tazas de agua con un poco de sal durante 20 minutos, reservar el caldo. Mezclar el maíz molido con 3 tazas de caldo y colarlo.
+
+			En la grasa del tocino sofreír la cebolla, el ajo y el achiote, durante 10 minutos.
+			Agregar el arroz cocido, la arveja y el maíz, revolver bien y dejar reposar 1 hora.
+			Para cada tamal engrasar una hoja de plátano, colocar una cama de masa y poner un poco de pollo, tocino, costilla de cerdo, papa, zanahoria y huevo, colocar otra capa de masa encima, recoger las puntas y bordes de las hojas y amarrarlas muy bien.
+			
+			Poner a cocinar en el caldo y agua que los cubra durante 2 1/2 horas con la olla tapada, a fuego medio.
+			
+			8 porciones
+	    </item>
+	    <item>
+Haga un arroz de leche cocinando el arroz en agua leche con una pizca de sal, moviéndolo para que se desbarate.
+
+Añada el resto de la leche y cocine hasta que se absorva. Escurra y pique el desamargado (dulce de almíbar de brevas, limones, toronja, pomelo, etc.)
+
+Desmenuce el bizcochuelo y remójelo en el vino. Al arroz de leche agregue las pasas y el anisado, después las especies, el azúcar, los huevos y el desamargado. Revuelva bien. Agregue al bizcochuelo y revuelva bien. Hornee por 30 minutos a 350º.
+	    </item>
+	</string-array>
+    
+</resources>

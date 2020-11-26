@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="oraciones_button">Ver Oraciones</string>
+    <string name="gloria_titulo">Gloria al Padre</string>
+    <string name="gloria_texto">Gloria al Padre, y al Hijo y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.</string>
+    <string name="avemaria_titulo">Avemaría</string>
+    <string name="avemaria_texto">Dios te salve María, llena eres de gracia,
+    \nel Señor es contigo;
+    \nbendita tú eres entre todas las mujeres,
+    \ny bendito es el fruto de tu vientre, Jesús.
+    \nSanta María, Madre de Dios
+    \nruega por nosotros, pecadores,
+    \nahora y en la hora de nuestra muerte. Amén.</string>
+    <string name="padre_nuestro_titulo">Padre Nuestro</string>
+    <string name="padre_nuestro_texto">Padre nuestro,
+\nque estás en el cielo.
+\nSantificado sea tu nombre.
+\nVenga tu reino.
+\nHágase tu voluntad en la tierra como en el cielo.
+\nDanos hoy nuestro pan de cada día.
+\nPerdona nuestras ofensas,
+\ncomo también nosotros perdonamos a los que nos ofenden.
+\nNo nos dejes caer en tentación y líbranos del mal.
+\nAmén.</string>
+
+</resources>

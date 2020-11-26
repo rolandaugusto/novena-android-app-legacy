@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/pattern_gray_bg">
+
+    <LinearLayout
+        android:id="@+id/current_day"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            style="@style/TextCaption"
+            android:text="@string/consideracion" />
+
+        <View style="@style/Divider.New" />
+
+        <TextView
+            android:id="@+id/current_day_p"
+            style="@style/TextBody" />
+    </LinearLayout>
+
+</ScrollView>

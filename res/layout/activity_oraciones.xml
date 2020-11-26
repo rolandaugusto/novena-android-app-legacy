@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/pattern_gray_bg" >
+
+    <LinearLayout
+        android:id="@+id/adsdkContent"
+        style="@style/MobfoxAd" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/adsdkContent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/oracion_nombre"
+            android:text="@string/oraciones"
+            style="@style/PagerTitleStrip.Novena"
+            android:gravity="center_horizontal" />
+
+        <View style="@style/Divider" />
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/TextCaption"
+                    android:text="@string/gloria_titulo" />
+
+                <View style="@style/Divider.New" />
+
+                <TextView
+                    style="@style/TextBody.Info"
+                    android:text="@string/gloria_texto" />
+
+                <TextView
+                    style="@style/TextCaption"
+                    android:text="@string/avemaria_titulo" />
+
+                <View style="@style/Divider.New" />
+
+                <TextView
+                    style="@style/TextBody.Info"
+                    android:text="@string/avemaria_texto" />
+
+                <TextView
+                    style="@style/TextCaption"
+                    android:text="@string/padre_nuestro_titulo" />
+
+                <View style="@style/Divider.New" />
+
+                <TextView
+                    style="@style/TextBody.Info"
+                    android:text="@string/padre_nuestro_texto" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</RelativeLayout>

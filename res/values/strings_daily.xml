@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="daily_names">
+        <item>Oración para todos los días</item>
+        <item>Oración a la Santísima Virgen</item>
+        <item>Oración a San José</item>
+        <item>Oración al Niño Jesús</item>
+    </string-array>
+    <string-array name="daily_bodies">
+        <item>Benignísimo Dios de infinita caridad, que tanto amasteis a los hombres, que les disteis en
+vuestro Hijo la mejor prenda de vuestro amor para que hecho hombre en las entrañas de
+una Virgen, naciese en un pesebre para nuestra salud y remedio; yo, en nombre de todos
+los mortales, os doy infinitas gracias por tan soberano beneficio.
+En torno a él os ofrezco la pobreza, humildad y demás virtudes de vuestro hijo
+humanado; suplicándoos por sus divinos méritos, por las incomodidades con que nació y
+por las tiernas lágrimas que derramó en su pesebre, que dispongáis nuestros corazones
+con humildad profunda, con amor encendido, con total desprecio de todo lo terreno, para
+que Jesús recién nacido tenga en ellos su cuna y more eternamente. Amén.
+\n(Se reza tres veces el Gloria al Padre)	    </item>
+        <item>Soberana María, que por tus grandes virtudes y especialmente por tu humildad, mereciste
+que todo un Dios te escogiera por madre suya, te suplico que tu misma prepares y
+dispongas mi alma, y la de todos los que en este tiempo hagan esta novena, para el
+nacimiento espiritual de tu adorado Hijo. ¡Oh dulcísima Madre! Comunícame algo del
+profundo recogimiento y divina ternura con la que guardaste tu, para que nos hagas
+menos indignos de verle, amarle y adorarle por toda la eternidad. Amén.
+\n(Se reza nueve veces el Avemaría)</item>
+        <item>¡Oh Santísimo José! Esposo de María y padre adoptivo de Jesús. Infinitas gracias
+doy a Dios porque te escogió para tan altos ministerios y te adornó con todos los dones
+proporcionados a tan excelente grandeza. Te ruego, por el amor que tuviste al Divino
+Niño, me abraces en fervorosos deseos de verle y recibirle sacramentalmente, mientras en
+su divina esencia le veo y le gozo en el cielo. Amén.
+\n(Se reza el Padrenuestro, el Avemaría y el Gloria).</item>
+        <item>Acordados ¡Oh dulcísimo Niño Jesús! Que dijiste a la Venerable Margarita del Santísimo
+Sacramento, y en persona suya a todos tus devotos, estas palabras tan consoladoras para
+nuestra pobre humanidad agobiada y doliente: “Todo lo que quieras pedir, pídelo por los
+méritos de mi infancia y nada te será negado”. Llenos de confianza en Tí ¡Oh Jesús, que
+eres la misma verdad! Venimos a exponerte toda nuestra miseria.
+Ayudadnos a llevar una vida santa, para conseguir una eternidad bienaventurada.
+Concédenos, por los méritos de tu encarnación y de tu infancia, la gracia... de la cual
+necesitamos tanto.
+Nos entregamos a Tí ¡Oh Niño omnipotente! Seguros de que no quedará frustrada nuestra
+esperanza, y de que en virtud de tu divina promesa, acogerás y despacharás
+favorablemente nuestra súplica. \nAmén.</item>
+    </string-array>
+
+</resources>

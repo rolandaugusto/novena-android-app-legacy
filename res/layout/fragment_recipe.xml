@@ -1,0 +1,49 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#F4F4EC" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/receta_image_big"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:adjustViewBounds="true"
+            android:background="#ffffff"
+            android:maxWidth="110dp"
+            android:paddingBottom="15dp"
+            android:paddingLeft="6dp"
+            android:paddingRight="6dp"
+            android:paddingTop="6dp"
+            android:scaleType="fitCenter" />
+
+        <TextView
+            style="@style/TextCaption"
+            android:text="@string/label_ingredientes" />
+
+        <View style="@style/Divider.New" />
+
+        <TextView
+            android:id="@+id/receta_ingredientes"
+            style="@style/TextBody"
+            android:background="#F4F4EC" />
+
+        <TextView
+            style="@style/TextCaption"
+            android:text="@string/label_preparacion" />
+
+        <View style="@style/Divider.New" />
+
+        <TextView
+            android:id="@+id/receta_preparacion"
+            style="@style/TextBody"
+            android:background="#F4F4EC" />
+    </LinearLayout>
+
+</ScrollView>

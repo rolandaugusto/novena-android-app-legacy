@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Divider">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">#cbcbcb</item>
+    </style>
+    
+     <style name="Divider.New">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:background">#333333</item>
+    </style>
+
+    <style name="Divider.TitleBar">
+        <item name="android:layout_height">0dp</item>
+        <item name="android:background">#33B5E5</item>
+    </style>
+
+    <style name="TextBody">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="TextBody.Villancico">
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TextBody.Gozos">
+        <item name="android:gravity">center</item>
+    </style>
+    
+    <style name="TextBody.Info">
+        <item name="android:background">@null</item>
+    </style>
+
+    <style name="TextCaption">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#333333</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+    </style>
+
+
+    <style name="List">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:divider">#cccccc</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:listSelector">@drawable/list_selector</item>
+        <item name="android:cacheColorHint">#00000000</item>
+    </style>
+    
+    <style name="ImageInList">      
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:maxWidth">50dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+
+    <style name="DashboardButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:drawablePadding">2dp</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:shadowColor">#cccccc</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">8</item>
+        <item name="android:background">@null</item>
+    </style>
+    
+    <style name="GenericButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#333333</item> 
+        <item name="android:textSize">18sp</item>        
+        <item name="android:layout_marginLeft">8dip</item>
+        <item name="android:padding">12dip</item>
+        
+    </style>
+    
+    <style name="ButtonDonate">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textSize">18sp</item> 
+        <item name="android:textColor">#000000</item>      
+    </style>
+    
+    <style name="PagerTitleStrip">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">top</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="PagerTitleStrip.Novena">
+        <item name="android:background">#0099CC</item>
+    </style>
+
+    <style name="PagerTitleStrip.Villancicos">
+        <item name="android:background">#0099CC</item>
+    </style>
+
+    <style name="PagerTitleStrip.Recetas">
+        <item name="android:background">#0099CC</item>
+    </style>
+
+    <style name="MobfoxAd">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:visibility">gone</item>
+    </style>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/dashboard_bg"
+    android:orientation="vertical" >
+
+    <com.lanovena.layout.DashboardLayout
+        android:id="@+id/dashboard"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/adsdkContent"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/dashboard_button_novena"
+            style="@style/DashboardButton"
+            android:drawableTop="@drawable/dashboard_button_novena"
+            android:text="@string/tabNovena" />
+
+        <Button
+            android:id="@+id/dashboard_button_villancicos"
+            style="@style/DashboardButton"
+            android:drawableTop="@drawable/dashboard_button_villancicos"
+            android:text="@string/tabVillancicos" />
+
+        <Button
+            android:id="@+id/dashboard_button_recetas"
+            style="@style/DashboardButton"
+            android:drawableTop="@drawable/dashboard_button_recetas"
+            android:text="@string/tabRecipes" />
+
+        <Button
+            android:id="@+id/dashboard_button_info"
+            style="@style/DashboardButton"
+            android:drawableTop="@drawable/dashboard_button_info"
+            android:text="@string/tabInfo" />
+    </com.lanovena.layout.DashboardLayout>
+
+    <RelativeLayout
+        android:id="@+id/adsdkContent"
+        style="@style/MobfoxAd"
+        android:visibility="visible">
+        
+    </RelativeLayout>
+
+</RelativeLayout>

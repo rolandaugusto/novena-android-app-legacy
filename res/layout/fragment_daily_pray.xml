@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/pattern_gray_bg" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <View style="@style/Divider" />
+
+        <TextView
+            android:id="@+id/daily_body"
+            style="@style/TextBody" />
+        
+        <Button 
+            android:id="@+id/button_oraciones"
+            style="@style/GenericButton"
+            android:layout_marginBottom="8dp"
+            android:text="@string/oraciones_button"/>
+        
+    </LinearLayout>
+
+</ScrollView>

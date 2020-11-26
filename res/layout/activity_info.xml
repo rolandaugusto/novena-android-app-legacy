@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/pattern_gray_bg" >
+
+    <LinearLayout
+        android:id="@+id/adsdkContent"
+        style="@style/MobfoxAd" >
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/adsdkContent">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/version_info"
+                style="@style/TextBody.Info"
+                android:layout_marginBottom="0dp" />
+
+            <TextView
+                style="@style/TextCaption"
+                android:text="@string/info_1_title" />
+
+            <View style="@style/Divider.New" />
+
+            <TextView
+                style="@style/TextBody.Info"
+                android:text="@string/info_1_p" />
+
+            <TextView
+                style="@style/TextCaption"
+                android:text="@string/info_2_title" />
+
+            <View style="@style/Divider.New" />
+
+            <TextView
+                style="@style/TextBody.Info"
+                android:text="@string/info_2_p" />
+
+            <TextView
+                style="@style/TextCaption"
+                android:text="@string/info_3_title" />
+
+            <View style="@style/Divider.New" />
+
+            <TextView
+                style="@style/TextBody.Info"
+                android:text="@string/info_3_p" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="16dp"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/donate1"
+                    style="@style/ButtonDonate"                    
+                    android:text="@string/donate1" />
+
+                <Button
+                    android:id="@+id/donate2"
+                    style="@style/ButtonDonate" 
+                    android:text="@string/donate2" />
+
+                <Button
+                    android:id="@+id/donate3"
+                    style="@style/ButtonDonate" 
+                    android:text="@string/donate3" />
+            </LinearLayout>
+
+            <TextView
+                style="@style/TextCaption"
+                android:text="@string/info_4_title" />
+
+            <View style="@style/Divider.New" />
+
+            <TextView
+                style="@style/TextBody.Info"
+                android:text="@string/info_4_p" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
